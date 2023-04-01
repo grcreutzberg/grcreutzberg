@@ -50,7 +50,7 @@
 ⚡ &nbsp;Github Stats
 <p align="left">
 <a href="https://github.com/grcreutzberg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=grcreutzberg&show_icons=true&locale=en&layout=compact&theme=radical"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=grcreutzberg&show_icons=true&locale=en&layout=compact&theme=radical"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grcreutzberg&show_icons=true&locale=en&theme=radical"/>
 </a>
 </p>
